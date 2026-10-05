@@ -1,4 +1,4 @@
-# Week 2 — Regression
+# Week 2: Regression
 
 This week focused on **Regression** and using machine learning to predict a continuous target variable.
 
