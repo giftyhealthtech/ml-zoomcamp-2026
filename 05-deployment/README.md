@@ -38,8 +38,8 @@ The Week 5 homework focuses on deploying the provided lead-scoring model. The ex
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone <https://github.com/giftyhealthtech/ml-zoomcamp-2026>
+cd <05-deployment>
 ```
 
 Navigate to the Week 5 homework directory.
